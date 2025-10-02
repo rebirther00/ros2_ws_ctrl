@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/excavator_ctrl/excavator_ctrl.egg-info
+writing ../../build/excavator_ctrl/excavator_ctrl.egg-info/PKG-INFO
+writing dependency_links to ../../build/excavator_ctrl/excavator_ctrl.egg-info/dependency_links.txt
+writing entry points to ../../build/excavator_ctrl/excavator_ctrl.egg-info/entry_points.txt
+writing requirements to ../../build/excavator_ctrl/excavator_ctrl.egg-info/requires.txt
+writing top-level names to ../../build/excavator_ctrl/excavator_ctrl.egg-info/top_level.txt
+writing manifest file '../../build/excavator_ctrl/excavator_ctrl.egg-info/SOURCES.txt'
+reading manifest file '../../build/excavator_ctrl/excavator_ctrl.egg-info/SOURCES.txt'
+writing manifest file '../../build/excavator_ctrl/excavator_ctrl.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rebirther/ros2_ws_ctrl/build/excavator_ctrl/build
+creating /home/rebirther/ros2_ws_ctrl/build/excavator_ctrl/build/lib
+creating /home/rebirther/ros2_ws_ctrl/build/excavator_ctrl/build/lib/excavator_ctrl
+copying excavator_ctrl/__init__.py -> /home/rebirther/ros2_ws_ctrl/build/excavator_ctrl/build/lib/excavator_ctrl
+running install
+running install_lib
+creating /home/rebirther/ros2_ws_ctrl/install/excavator_ctrl/lib/python3.10/site-packages/excavator_ctrl
+copying /home/rebirther/ros2_ws_ctrl/build/excavator_ctrl/build/lib/excavator_ctrl/__init__.py -> /home/rebirther/ros2_ws_ctrl/install/excavator_ctrl/lib/python3.10/site-packages/excavator_ctrl
+byte-compiling /home/rebirther/ros2_ws_ctrl/install/excavator_ctrl/lib/python3.10/site-packages/excavator_ctrl/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/rebirther/ros2_ws_ctrl/install/excavator_ctrl/share/ament_index
+creating /home/rebirther/ros2_ws_ctrl/install/excavator_ctrl/share/ament_index/resource_index
+creating /home/rebirther/ros2_ws_ctrl/install/excavator_ctrl/share/ament_index/resource_index/packages
+copying resource/excavator_ctrl -> /home/rebirther/ros2_ws_ctrl/install/excavator_ctrl/share/ament_index/resource_index/packages
+copying package.xml -> /home/rebirther/ros2_ws_ctrl/install/excavator_ctrl/share/excavator_ctrl
+running install_egg_info
+Copying ../../build/excavator_ctrl/excavator_ctrl.egg-info to /home/rebirther/ros2_ws_ctrl/install/excavator_ctrl/lib/python3.10/site-packages/excavator_ctrl-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/rebirther/ros2_ws_ctrl/build/excavator_ctrl/install.log'

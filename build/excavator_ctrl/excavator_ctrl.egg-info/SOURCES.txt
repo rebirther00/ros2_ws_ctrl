@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/excavator_ctrl/excavator_ctrl.egg-info/PKG-INFO
+../../build/excavator_ctrl/excavator_ctrl.egg-info/SOURCES.txt
+../../build/excavator_ctrl/excavator_ctrl.egg-info/dependency_links.txt
+../../build/excavator_ctrl/excavator_ctrl.egg-info/entry_points.txt
+../../build/excavator_ctrl/excavator_ctrl.egg-info/requires.txt
+../../build/excavator_ctrl/excavator_ctrl.egg-info/top_level.txt
+../../build/excavator_ctrl/excavator_ctrl.egg-info/zip-safe
+excavator_ctrl/__init__.py
+resource/excavator_ctrl
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
